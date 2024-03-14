@@ -1,15 +1,15 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.nums = nums
+        self.arr = []
+        count = 0
+        self.arr.append(count)
+        for i in range(len(nums)):
+            count += nums[i]
+            self.arr.append(count)
 
     def sumRange(self, left: int, right: int) -> int:
-        count = 0
-        if len(self.nums) > right:
-            while left <= right:
-                count += self.nums[left]
-                left += 1
-        return count
+        return self.arr[right + 1] - self.arr[left]
 
 
 # Your NumArray object will be instantiated and called as such:
