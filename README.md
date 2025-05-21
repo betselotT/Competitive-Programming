@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
+| [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
