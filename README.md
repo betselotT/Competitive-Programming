@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/betselotT/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 ## Queue
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Backtracking
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
