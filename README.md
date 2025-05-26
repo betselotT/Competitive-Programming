@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/betselotT/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/betselotT/Competitive-Programming/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
