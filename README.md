@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
 ## Game Theory
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
