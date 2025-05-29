@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/betselotT/Competitive-Programming/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 ## Backtracking
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
