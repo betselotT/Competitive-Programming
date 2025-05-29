@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/betselotT/Competitive-Programming/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
+| [0482-license-key-formatting](https://github.com/betselotT/Competitive-Programming/tree/master/0482-license-key-formatting) |
 ## Stack
 |  |
 | ------- |
