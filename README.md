@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0485-max-consecutive-ones](https://github.com/betselotT/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/betselotT/Competitive-Programming/tree/master/0495-teemo-attacking) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/betselotT/Competitive-Programming/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
