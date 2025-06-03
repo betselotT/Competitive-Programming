@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/betselotT/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0485-max-consecutive-ones](https://github.com/betselotT/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
 ## String
 |  |
 | ------- |
@@ -136,7 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0492-construct-the-rectangle) |
-| [0504-base-7](https://github.com/betselotT/Competitive-Programming/tree/master/0504-base-7) |
 ## Backtracking
 |  |
 | ------- |
