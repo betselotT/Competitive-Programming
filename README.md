@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0482-license-key-formatting](https://github.com/betselotT/Competitive-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/betselotT/Competitive-Programming/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
