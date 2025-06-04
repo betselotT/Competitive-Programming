@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/betselotT/Competitive-Programming/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
