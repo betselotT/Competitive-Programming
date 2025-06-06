@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/betselotT/Competitive-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/betselotT/Competitive-Programming/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/betselotT/Competitive-Programming/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Stack
 |  |
 | ------- |
