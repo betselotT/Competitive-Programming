@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/betselotT/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0566-reshape-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0566-reshape-the-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0566-reshape-the-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
