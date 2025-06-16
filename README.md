@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/betselotT/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/betselotT/Competitive-Programming/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/betselotT/Competitive-Programming/tree/master/0388-longest-absolute-file-path) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/betselotT/Competitive-Programming/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/betselotT/Competitive-Programming/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
