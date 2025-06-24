@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/betselotT/Competitive-Programming/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/betselotT/Competitive-Programming/tree/master/0693-binary-number-with-alternating-bits) |
 ## Trie
 |  |
 | ------- |
