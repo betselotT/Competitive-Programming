@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/betselotT/Competitive-Programming/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/betselotT/Competitive-Programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/betselotT/Competitive-Programming/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/betselotT/Competitive-Programming/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
