@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/betselotT/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0697-degree-of-an-array) |
+| [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0697-degree-of-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/betselotT/Competitive-Programming/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
 ## Two Pointers
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/betselotT/Competitive-Programming/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/betselotT/Competitive-Programming/tree/master/0696-count-binary-substrings) |
+| [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |
