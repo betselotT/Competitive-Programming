@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/betselotT/Competitive-Programming/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/betselotT/Competitive-Programming/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0598-range-addition-ii) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/betselotT/Competitive-Programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/betselotT/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/betselotT/Competitive-Programming/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/betselotT/Competitive-Programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Trie
 |  |
 | ------- |
