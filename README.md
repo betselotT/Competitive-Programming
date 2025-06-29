@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/betselotT/Competitive-Programming/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
+| [0812-rotate-string](https://github.com/betselotT/Competitive-Programming/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/betselotT/Competitive-Programming/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
