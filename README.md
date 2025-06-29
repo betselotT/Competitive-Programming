@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
+| [0824-number-of-lines-to-write-string](https://github.com/betselotT/Competitive-Programming/tree/master/0824-number-of-lines-to-write-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/betselotT/Competitive-Programming/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/betselotT/Competitive-Programming/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/betselotT/Competitive-Programming/tree/master/0824-number-of-lines-to-write-string) |
 ## Stack
 |  |
 | ------- |
