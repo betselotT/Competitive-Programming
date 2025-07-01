@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
 | [0824-number-of-lines-to-write-string](https://github.com/betselotT/Competitive-Programming/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
 ## Two Pointers
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/betselotT/Competitive-Programming/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0598-range-addition-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/betselotT/Competitive-Programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
 ## Backtracking
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
