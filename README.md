@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/betselotT/Competitive-Programming/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/betselotT/Competitive-Programming/tree/master/0841-shortest-distance-to-a-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/betselotT/Competitive-Programming/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/betselotT/Competitive-Programming/tree/master/0841-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/betselotT/Competitive-Programming/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/betselotT/Competitive-Programming/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/betselotT/Competitive-Programming/tree/master/0841-shortest-distance-to-a-character) |
 ## Stack
 |  |
 | ------- |
