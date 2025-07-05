@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0598-range-addition-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/betselotT/Competitive-Programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/betselotT/Competitive-Programming/tree/master/0866-rectangle-overlap) |
 ## Backtracking
 |  |
 | ------- |
@@ -320,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/betselotT/Competitive-Programming/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
