@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/betselotT/Competitive-Programming/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/betselotT/Competitive-Programming/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
 ## Stack
 |  |
 | ------- |
