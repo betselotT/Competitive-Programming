@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/betselotT/Competitive-Programming/tree/master/0841-shortest-distance-to-a-character) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
+| [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
+| [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/betselotT/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/betselotT/Competitive-Programming/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 ## String
 |  |
 | ------- |
