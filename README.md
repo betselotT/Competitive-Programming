@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/betselotT/Competitive-Programming/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/betselotT/Competitive-Programming/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Bit Manipulation
 |  |
 | ------- |
