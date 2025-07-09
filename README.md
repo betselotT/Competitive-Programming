@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/betselotT/Competitive-Programming/tree/master/0841-shortest-distance-to-a-character) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
+| [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/betselotT/Competitive-Programming/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
+| [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 ## Backtracking
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/betselotT/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
+| [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -344,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/betselotT/Competitive-Programming/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/betselotT/Competitive-Programming/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
+| [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
