@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/betselotT/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/betselotT/Competitive-Programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/betselotT/Competitive-Programming/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
