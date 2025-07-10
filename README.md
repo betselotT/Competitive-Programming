@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 ## Simulation
 |  |
 | ------- |
