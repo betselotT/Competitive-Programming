@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/betselotT/Competitive-Programming/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/betselotT/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/betselotT/Competitive-Programming/tree/master/0944-smallest-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/betselotT/Competitive-Programming/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
+| [0944-smallest-range-i](https://github.com/betselotT/Competitive-Programming/tree/master/0944-smallest-range-i) |
 ## Backtracking
 |  |
 | ------- |
