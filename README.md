@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0958-sort-array-by-parity-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/betselotT/Competitive-Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/betselotT/Competitive-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/betselotT/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Quickselect
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/betselotT/Competitive-Programming/tree/master/0944-smallest-range-i) |
+| [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
