@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
+| [0965-unique-email-addresses](https://github.com/betselotT/Competitive-Programming/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/betselotT/Competitive-Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/betselotT/Competitive-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Linked List
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/betselotT/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/betselotT/Competitive-Programming/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0958-sort-array-by-parity-ii) |
+| [0965-unique-email-addresses](https://github.com/betselotT/Competitive-Programming/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/betselotT/Competitive-Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/betselotT/Competitive-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/betselotT/Competitive-Programming/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/betselotT/Competitive-Programming/tree/master/0953-reverse-only-letters) |
+| [0965-unique-email-addresses](https://github.com/betselotT/Competitive-Programming/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/betselotT/Competitive-Programming/tree/master/0990-verifying-an-alien-dictionary) |
 ## Stack
 |  |
