@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/betselotT/Competitive-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1031-add-to-array-form-of-integer) |
+| [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/betselotT/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
+| [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/betselotT/Competitive-Programming/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 ## String Matching
 |  |
 | ------- |
