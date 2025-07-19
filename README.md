@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/betselotT/Competitive-Programming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/betselotT/Competitive-Programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/betselotT/Competitive-Programming/tree/master/0899-binary-gap) |
+| [1054-complement-of-base-10-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1054-complement-of-base-10-integer) |
 ## Trie
 |  |
 | ------- |
