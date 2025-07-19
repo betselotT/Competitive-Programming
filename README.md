@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1031-add-to-array-form-of-integer) |
 | [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/betselotT/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/betselotT/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Quickselect
 |  |
 | ------- |
