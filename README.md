@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/betselotT/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/betselotT/Competitive-Programming/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/betselotT/Competitive-Programming/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/betselotT/Competitive-Programming/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1054-complement-of-base-10-integer) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/betselotT/Competitive-Programming/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Trie
 |  |
 | ------- |
