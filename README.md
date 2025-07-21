@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Queue
 |  |
 | ------- |
