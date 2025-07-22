@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
+| [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/betselotT/Competitive-Programming/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/betselotT/Competitive-Programming/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
