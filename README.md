@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/betselotT/Competitive-Programming/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/betselotT/Competitive-Programming/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/betselotT/Competitive-Programming/tree/master/0990-verifying-an-alien-dictionary) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/betselotT/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/betselotT/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
