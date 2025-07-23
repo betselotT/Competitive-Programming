@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/betselotT/Competitive-Programming/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 ## Backtracking
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-projection-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/betselotT/Competitive-Programming/tree/master/0928-surface-area-of-3d-shapes) |
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 ## Brainteaser
 |  |
 | ------- |
