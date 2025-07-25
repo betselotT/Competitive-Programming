@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/betselotT/Competitive-Programming/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/betselotT/Competitive-Programming/tree/master/0990-verifying-an-alien-dictionary) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/betselotT/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
