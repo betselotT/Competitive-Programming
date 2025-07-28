@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/betselotT/Competitive-Programming/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
+| [1168-duplicate-zeros](https://github.com/betselotT/Competitive-Programming/tree/master/1168-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/betselotT/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/betselotT/Competitive-Programming/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0958-sort-array-by-parity-ii) |
+| [1168-duplicate-zeros](https://github.com/betselotT/Competitive-Programming/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
