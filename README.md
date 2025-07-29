@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/betselotT/Competitive-Programming/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
+| [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
 ## String Matching
 |  |
 | ------- |
