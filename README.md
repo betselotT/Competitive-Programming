@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/betselotT/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/betselotT/Competitive-Programming/tree/master/1156-occurrences-after-bigram) |
+| [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
 ## Stack
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
+| [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
 ## Backtracking
 |  |
 | ------- |
