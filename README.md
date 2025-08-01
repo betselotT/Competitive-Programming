@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
 | [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
+| [1279-prime-arrangements](https://github.com/betselotT/Competitive-Programming/tree/master/1279-prime-arrangements) |
 ## Backtracking
 |  |
 | ------- |
