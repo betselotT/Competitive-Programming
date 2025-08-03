@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/betselotT/Competitive-Programming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/betselotT/Competitive-Programming/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/betselotT/Competitive-Programming/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
+| [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/betselotT/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/betselotT/Competitive-Programming/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |
