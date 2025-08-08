@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betselotT/Competitive-Programming/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/betselotT/Competitive-Programming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
+| [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/betselotT/Competitive-Programming/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betselotT/Competitive-Programming/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/betselotT/Competitive-Programming/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
 ## Backtracking
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/betselotT/Competitive-Programming/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
 ## Brainteaser
 |  |
 | ------- |
