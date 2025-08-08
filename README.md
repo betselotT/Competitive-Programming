@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/betselotT/Competitive-Programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Linked List
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/betselotT/Competitive-Programming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/betselotT/Competitive-Programming/tree/master/1041-available-captures-for-rook) |
 | [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String Matching
 |  |
 | ------- |
