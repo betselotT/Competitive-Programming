@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/betselotT/Competitive-Programming/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/betselotT/Competitive-Programming/tree/master/1168-duplicate-zeros) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/betselotT/Competitive-Programming/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/betselotT/Competitive-Programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/betselotT/Competitive-Programming/tree/master/1287-distance-between-bus-stops) |
 | [1306-minimum-absolute-difference](https://github.com/betselotT/Competitive-Programming/tree/master/1306-minimum-absolute-difference) |
