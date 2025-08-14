@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betselotT/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betselotT/Competitive-Programming/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/betselotT/Competitive-Programming/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betselotT/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Backtracking
 |  |
 | ------- |
