@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/betselotT/Competitive-Programming/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/betselotT/Competitive-Programming/tree/master/1168-duplicate-zeros) |
+| [1454-remove-palindromic-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/1454-remove-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/betselotT/Competitive-Programming/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
+| [1454-remove-palindromic-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/1454-remove-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
