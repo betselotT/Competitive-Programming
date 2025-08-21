@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-palindromic-subsequences">Remove Palindromic Subsequences</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> consisting <strong>only</strong> of letters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>. In a single step you can remove one <strong>palindromic subsequence</strong> from <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/remove-palindromic-subsequences">1454. Remove Palindromic Subsequences</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting <strong>only</strong> of letters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>. In a single step you can remove one <strong>palindromic subsequence</strong> from <code>s</code>.</p>
 
 <p>Return <em>the <strong>minimum</strong> number of steps to make the given string empty</em>.</p>
 
