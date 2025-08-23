@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/betselotT/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betselotT/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1256-rank-transform-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/betselotT/Competitive-Programming/tree/master/1306-minimum-absolute-difference) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/betselotT/Competitive-Programming/tree/master/1094-matrix-cells-in-distance-order) |
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
