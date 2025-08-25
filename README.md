@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betselotT/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/betselotT/Competitive-Programming/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/betselotT/Competitive-Programming/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
