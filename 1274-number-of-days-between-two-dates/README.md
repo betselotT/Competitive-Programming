@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-days-between-two-dates">1274. Number of Days Between Two Dates</a></h2><h3>Easy</h3><hr><p>Write a program to count the number of days between two dates.</p>
+<h2><a href="https://leetcode.com/problems/number-of-days-between-two-dates">Number of Days Between Two Dates</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Write a program to count the number of days between two dates.</p>
 
 <p>The two dates are given as strings, their format is <code>YYYY-MM-DD</code>&nbsp;as shown in the examples.</p>
 
