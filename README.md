@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/betselotT/Competitive-Programming/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/betselotT/Competitive-Programming/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1454-remove-palindromic-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/1454-remove-palindromic-subsequences) |
 ## Stack
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/betselotT/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
 | [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/betselotT/Competitive-Programming/tree/master/1274-number-of-days-between-two-dates) |
 | [1279-prime-arrangements](https://github.com/betselotT/Competitive-Programming/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/betselotT/Competitive-Programming/tree/master/1289-day-of-the-week) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betselotT/Competitive-Programming/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
