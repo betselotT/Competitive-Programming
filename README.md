@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/betselotT/Competitive-Programming/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1454-remove-palindromic-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/1454-remove-palindromic-subsequences) |
+| [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
 ## Stack
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/betselotT/Competitive-Programming/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/betselotT/Competitive-Programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
 ## Bit Manipulation
 |  |
 | ------- |
