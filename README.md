@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/betselotT/Competitive-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/betselotT/Competitive-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/betselotT/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/betselotT/Competitive-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Queue
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betselotT/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/betselotT/Competitive-Programming/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
