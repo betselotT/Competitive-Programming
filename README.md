@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/betselotT/Competitive-Programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
