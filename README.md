@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
+| [1500-count-largest-group](https://github.com/betselotT/Competitive-Programming/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/betselotT/Competitive-Programming/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betselotT/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/betselotT/Competitive-Programming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1500-count-largest-group](https://github.com/betselotT/Competitive-Programming/tree/master/1500-count-largest-group) |
 ## Backtracking
 |  |
 | ------- |
