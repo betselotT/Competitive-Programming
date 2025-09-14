@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betselotT/Competitive-Programming/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 ## Two Pointers
@@ -520,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/betselotT/Competitive-Programming/tree/master/1203-print-in-order) |
+## Prefix Sum
+|  |
+| ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
