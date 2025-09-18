@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/betselotT/Competitive-Programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/betselotT/Competitive-Programming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/betselotT/Competitive-Programming/tree/master/1500-count-largest-group) |
+| [1610-xor-operation-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1610-xor-operation-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-complement-of-base-10-integer](https://github.com/betselotT/Competitive-Programming/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/betselotT/Competitive-Programming/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/betselotT/Competitive-Programming/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1610-xor-operation-in-an-array) |
 ## Trie
 |  |
 | ------- |
