@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betselotT/Competitive-Programming/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/betselotT/Competitive-Programming/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betselotT/Competitive-Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betselotT/Competitive-Programming/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betselotT/Competitive-Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## String
 |  |
 | ------- |
