@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/betselotT/Competitive-Programming/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/betselotT/Competitive-Programming/tree/master/1532-reformat-the-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1542-consecutive-characters) |
 ## Stack
 |  |
@@ -533,4 +534,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
