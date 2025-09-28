@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
 | [1500-count-largest-group](https://github.com/betselotT/Competitive-Programming/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1619-path-crossing](https://github.com/betselotT/Competitive-Programming/tree/master/1619-path-crossing) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/betselotT/Competitive-Programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1619-path-crossing](https://github.com/betselotT/Competitive-Programming/tree/master/1619-path-crossing) |
 ## Stack
 |  |
 | ------- |
