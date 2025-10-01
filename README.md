@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/betselotT/Competitive-Programming/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/betselotT/Competitive-Programming/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/betselotT/Competitive-Programming/tree/master/1274-number-of-days-between-two-dates) |
+| [1283-reformat-date](https://github.com/betselotT/Competitive-Programming/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/betselotT/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [1454-remove-palindromic-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/1454-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/betselotT/Competitive-Programming/tree/master/1472-increasing-decreasing-string) |
