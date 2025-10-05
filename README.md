@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/betselotT/Competitive-Programming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/betselotT/Competitive-Programming/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/betselotT/Competitive-Programming/tree/master/1642-water-bottles) |
 ## Backtracking
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/betselotT/Competitive-Programming/tree/master/1195-distribute-candies-to-people) |
 | [1386-shift-2d-grid](https://github.com/betselotT/Competitive-Programming/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/betselotT/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1642-water-bottles](https://github.com/betselotT/Competitive-Programming/tree/master/1642-water-bottles) |
 ## String Matching
 |  |
 | ------- |
