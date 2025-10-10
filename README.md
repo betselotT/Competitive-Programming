@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/betselotT/Competitive-Programming/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betselotT/Competitive-Programming/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/betselotT/Competitive-Programming/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1646-kth-missing-positive-number](https://github.com/betselotT/Competitive-Programming/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/betselotT/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1646-kth-missing-positive-number](https://github.com/betselotT/Competitive-Programming/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
