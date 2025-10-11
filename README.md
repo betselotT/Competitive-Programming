@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/betselotT/Competitive-Programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1619-path-crossing](https://github.com/betselotT/Competitive-Programming/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/betselotT/Competitive-Programming/tree/master/1666-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/betselotT/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/betselotT/Competitive-Programming/tree/master/1666-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
