@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/betselotT/Competitive-Programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/betselotT/Competitive-Programming/tree/master/1287-distance-between-bus-stops) |
+| [1293-three-consecutive-odds](https://github.com/betselotT/Competitive-Programming/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/betselotT/Competitive-Programming/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betselotT/Competitive-Programming/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/betselotT/Competitive-Programming/tree/master/1349-check-if-it-is-a-straight-line) |
