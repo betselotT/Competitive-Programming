@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/betselotT/Competitive-Programming/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/betselotT/Competitive-Programming/tree/master/1646-kth-missing-positive-number) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/betselotT/Competitive-Programming/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/betselotT/Competitive-Programming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -558,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betselotT/Competitive-Programming/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/betselotT/Competitive-Programming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 <!---LeetCode Topics End-->
