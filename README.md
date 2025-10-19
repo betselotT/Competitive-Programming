@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/betselotT/Competitive-Programming/tree/master/1646-kth-missing-positive-number) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/betselotT/Competitive-Programming/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/betselotT/Competitive-Programming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
