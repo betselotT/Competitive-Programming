@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/betselotT/Competitive-Programming/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/betselotT/Competitive-Programming/tree/master/1666-make-the-string-great) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1714-rearrange-spaces-between-words](https://github.com/betselotT/Competitive-Programming/tree/master/1714-rearrange-spaces-between-words) |
 ## Stack
 |  |
 | ------- |
