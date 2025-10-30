@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/betselotT/Competitive-Programming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/betselotT/Competitive-Programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1751-slowest-key](https://github.com/betselotT/Competitive-Programming/tree/master/1751-slowest-key) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1714-rearrange-spaces-between-words](https://github.com/betselotT/Competitive-Programming/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/betselotT/Competitive-Programming/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1751-slowest-key](https://github.com/betselotT/Competitive-Programming/tree/master/1751-slowest-key) |
 ## Stack
 |  |
 | ------- |
