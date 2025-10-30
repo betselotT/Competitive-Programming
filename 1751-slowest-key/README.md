@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/slowest-key">Slowest Key</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A newly designed keypad was tested, where a tester pressed a sequence of <code>n</code> keys, one at a time.</p>
+<h2><a href="https://leetcode.com/problems/slowest-key">1751. Slowest Key</a></h2><h3>Easy</h3><hr><p>A newly designed keypad was tested, where a tester pressed a sequence of <code>n</code> keys, one at a time.</p>
 
 <p>You are given a string <code>keysPressed</code> of length <code>n</code>, where <code>keysPressed[i]</code> was the <code>i<sup>th</sup></code> key pressed in the testing sequence, and a sorted list <code>releaseTimes</code>, where <code>releaseTimes[i]</code> was the time the <code>i<sup>th</sup></code> key was released. Both arrays are <strong>0-indexed</strong>. The <code>0<sup>th</sup></code> key was pressed at the time <code>0</code>,&nbsp;and every subsequent key was pressed at the <strong>exact</strong> time the previous key was released.</p>
 
