@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1619-path-crossing](https://github.com/betselotT/Competitive-Programming/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1760-check-array-formation-through-concatenation](https://github.com/betselotT/Competitive-Programming/tree/master/1760-check-array-formation-through-concatenation) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/betselotT/Competitive-Programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1751-slowest-key](https://github.com/betselotT/Competitive-Programming/tree/master/1751-slowest-key) |
+| [1760-check-array-formation-through-concatenation](https://github.com/betselotT/Competitive-Programming/tree/master/1760-check-array-formation-through-concatenation) |
 ## Two Pointers
 |  |
 | ------- |
