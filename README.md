@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/betselotT/Competitive-Programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1751-slowest-key](https://github.com/betselotT/Competitive-Programming/tree/master/1751-slowest-key) |
 | [1760-check-array-formation-through-concatenation](https://github.com/betselotT/Competitive-Programming/tree/master/1760-check-array-formation-through-concatenation) |
+| [1769-get-maximum-in-generated-array](https://github.com/betselotT/Competitive-Programming/tree/master/1769-get-maximum-in-generated-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/betselotT/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/betselotT/Competitive-Programming/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1708-design-parking-system](https://github.com/betselotT/Competitive-Programming/tree/master/1708-design-parking-system) |
+| [1769-get-maximum-in-generated-array](https://github.com/betselotT/Competitive-Programming/tree/master/1769-get-maximum-in-generated-array) |
 ## String Matching
 |  |
 | ------- |
