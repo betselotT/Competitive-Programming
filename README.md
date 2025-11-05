@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/betselotT/Competitive-Programming/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1751-slowest-key](https://github.com/betselotT/Competitive-Programming/tree/master/1751-slowest-key) |
+| [1755-defuse-the-bomb](https://github.com/betselotT/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 | [1760-check-array-formation-through-concatenation](https://github.com/betselotT/Competitive-Programming/tree/master/1760-check-array-formation-through-concatenation) |
 | [1769-get-maximum-in-generated-array](https://github.com/betselotT/Competitive-Programming/tree/master/1769-get-maximum-in-generated-array) |
 ## Two Pointers
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
+| [1755-defuse-the-bomb](https://github.com/betselotT/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 ## Geometry
 |  |
 | ------- |
