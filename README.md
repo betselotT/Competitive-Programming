@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/betselotT/Competitive-Programming/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/betselotT/Competitive-Programming/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/betselotT/Competitive-Programming/tree/master/1751-slowest-key) |
+| [1764-maximum-repeating-substring](https://github.com/betselotT/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/betselotT/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/betselotT/Competitive-Programming/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/betselotT/Competitive-Programming/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/betselotT/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 ## Hash Function
 |  |
 | ------- |
