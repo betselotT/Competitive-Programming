@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
+| [0393-utf-8-validation](https://github.com/betselotT/Competitive-Programming/tree/master/0393-utf-8-validation) |
 | [0485-max-consecutive-ones](https://github.com/betselotT/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/betselotT/Competitive-Programming/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/betselotT/Competitive-Programming/tree/master/0645-set-mismatch) |
