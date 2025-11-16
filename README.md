@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/betselotT/Competitive-Programming/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/betselotT/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
+| [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
 | [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/betselotT/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 ## Depth-First Search
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/betselotT/Competitive-Programming/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/betselotT/Competitive-Programming/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0492-construct-the-rectangle) |
