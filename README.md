@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/betselotT/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
 | [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/betselotT/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 ## Depth-First Search
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/betselotT/Competitive-Programming/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/betselotT/Competitive-Programming/tree/master/0645-set-mismatch) |
@@ -613,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0390-elimination-game](https://github.com/betselotT/Competitive-Programming/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/betselotT/Competitive-Programming/tree/master/0394-decode-string) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
