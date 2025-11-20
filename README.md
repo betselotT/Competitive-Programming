@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/betselotT/Competitive-Programming/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/betselotT/Competitive-Programming/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0492-construct-the-rectangle) |
@@ -472,11 +474,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/betselotT/Competitive-Programming/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/betselotT/Competitive-Programming/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/betselotT/Competitive-Programming/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
 ## Counting
 |  |
 | ------- |
