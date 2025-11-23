@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/betselotT/Competitive-Programming/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0924-fair-candy-swap](https://github.com/betselotT/Competitive-Programming/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/betselotT/Competitive-Programming/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/betselotT/Competitive-Programming/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0492-construct-the-rectangle) |
