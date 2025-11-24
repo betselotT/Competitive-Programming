@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/betselotT/Competitive-Programming/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/betselotT/Competitive-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/betselotT/Competitive-Programming/tree/master/0520-detect-capital) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/betselotT/Competitive-Programming/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/betselotT/Competitive-Programming/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/betselotT/Competitive-Programming/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/betselotT/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/betselotT/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/betselotT/Competitive-Programming/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -626,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
