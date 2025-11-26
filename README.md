@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/betselotT/Competitive-Programming/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/betselotT/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/betselotT/Competitive-Programming/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/betselotT/Competitive-Programming/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/betselotT/Competitive-Programming/tree/master/0506-relative-ranks) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/betselotT/Competitive-Programming/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/betselotT/Competitive-Programming/tree/master/0413-arithmetic-slices) |
 | [1086-divisor-game](https://github.com/betselotT/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/betselotT/Competitive-Programming/tree/master/1764-maximum-repeating-substring) |
 ## Depth-First Search
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/betselotT/Competitive-Programming/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/betselotT/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 ## Geometry
