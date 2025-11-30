@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/betselotT/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/betselotT/Competitive-Programming/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/betselotT/Competitive-Programming/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/betselotT/Competitive-Programming/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/betselotT/Competitive-Programming/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0482-license-key-formatting](https://github.com/betselotT/Competitive-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/betselotT/Competitive-Programming/tree/master/0520-detect-capital) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/betselotT/Competitive-Programming/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/betselotT/Competitive-Programming/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/betselotT/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/betselotT/Competitive-Programming/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/betselotT/Competitive-Programming/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/betselotT/Competitive-Programming/tree/master/0504-base-7) |
