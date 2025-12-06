@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/betselotT/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/betselotT/Competitive-Programming/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/betselotT/Competitive-Programming/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/betselotT/Competitive-Programming/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/betselotT/Competitive-Programming/tree/master/0817-design-hashmap) |
 ## Design
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/betselotT/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/betselotT/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/betselotT/Competitive-Programming/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/betselotT/Competitive-Programming/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/betselotT/Competitive-Programming/tree/master/0563-binary-tree-tilt) |
@@ -662,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/betselotT/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/betselotT/Competitive-Programming/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
