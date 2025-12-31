@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/betselotT/Competitive-Programming/tree/master/0060-permutation-sequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/betselotT/Competitive-Programming/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/betselotT/Competitive-Programming/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/betselotT/Competitive-Programming/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/betselotT/Competitive-Programming/tree/master/0394-decode-string) |
 ## Memoization
