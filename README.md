@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/betselotT/Competitive-Programming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/betselotT/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/betselotT/Competitive-Programming/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/betselotT/Competitive-Programming/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/betselotT/Competitive-Programming/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/betselotT/Competitive-Programming/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/betselotT/Competitive-Programming/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/betselotT/Competitive-Programming/tree/master/0874-backspace-string-compare) |
