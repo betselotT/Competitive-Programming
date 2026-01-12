@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/betselotT/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/betselotT/Competitive-Programming/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/betselotT/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/betselotT/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/betselotT/Competitive-Programming/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/betselotT/Competitive-Programming/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/betselotT/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/betselotT/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/betselotT/Competitive-Programming/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/betselotT/Competitive-Programming/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0594-longest-harmonious-subsequence) |
