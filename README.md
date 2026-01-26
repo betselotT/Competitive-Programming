@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/betselotT/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/betselotT/Competitive-Programming/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/betselotT/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/betselotT/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/betselotT/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/betselotT/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/betselotT/Competitive-Programming/tree/master/0385-mini-parser) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/betselotT/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/betselotT/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
 ## Binary Indexed Tree
 |  |
