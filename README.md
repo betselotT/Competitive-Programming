@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/betselotT/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/betselotT/Competitive-Programming/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/betselotT/Competitive-Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/betselotT/Competitive-Programming/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0433-minimum-genetic-mutation](https://github.com/betselotT/Competitive-Programming/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/betselotT/Competitive-Programming/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/betselotT/Competitive-Programming/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/betselotT/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/betselotT/Competitive-Programming/tree/master/0520-detect-capital) |
