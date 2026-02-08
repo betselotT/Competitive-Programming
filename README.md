@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/betselotT/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/betselotT/Competitive-Programming/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/betselotT/Competitive-Programming/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/betselotT/Competitive-Programming/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
