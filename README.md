@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/betselotT/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/betselotT/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/betselotT/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/betselotT/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/betselotT/Competitive-Programming/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/betselotT/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/betselotT/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/betselotT/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
