@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/betselotT/Competitive-Programming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/betselotT/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/betselotT/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/betselotT/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/betselotT/Competitive-Programming/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/betselotT/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/betselotT/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0365-water-and-jug-problem](https://github.com/betselotT/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/betselotT/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/betselotT/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
