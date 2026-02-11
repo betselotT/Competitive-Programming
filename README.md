@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/betselotT/Competitive-Programming/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/betselotT/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/betselotT/Competitive-Programming/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/betselotT/Competitive-Programming/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/betselotT/Competitive-Programming/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
