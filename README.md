@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/betselotT/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/betselotT/Competitive-Programming/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/betselotT/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/betselotT/Competitive-Programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/betselotT/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/betselotT/Competitive-Programming/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0324-wiggle-sort-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/betselotT/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/betselotT/Competitive-Programming/tree/master/0376-wiggle-subsequence) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/betselotT/Competitive-Programming/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/betselotT/Competitive-Programming/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/betselotT/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/betselotT/Competitive-Programming/tree/master/0383-ransom-note) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/betselotT/Competitive-Programming/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/betselotT/Competitive-Programming/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/betselotT/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0337-house-robber-iii](https://github.com/betselotT/Competitive-Programming/tree/master/0337-house-robber-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/betselotT/Competitive-Programming/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/betselotT/Competitive-Programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/betselotT/Competitive-Programming/tree/master/0401-binary-watch) |
 ## Game Theory
@@ -597,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/betselotT/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
 ## Database
 |  |
@@ -711,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/betselotT/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/betselotT/Competitive-Programming/tree/master/0397-integer-replacement) |
 ## Monotonic Stack
 |  |
